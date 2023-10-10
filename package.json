@@ -13,6 +13,8 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@locator/babel-jsx": "^0.2.4",
+    "@locator/runtime": "^0.2.4",
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react": "^3.1.0",
